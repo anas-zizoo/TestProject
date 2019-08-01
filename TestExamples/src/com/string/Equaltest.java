@@ -39,6 +39,7 @@ public class Equaltest {
 		else
 			System.out.println("s4 eqaul s5: false");
 	
+		System.out.println("Change in string");
 	}
 
 }
